@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: ubekishov-service
   description: |
-    My first service
+    My first service.
   links:
     - title: Website
       url: http://harness.io
@@ -37,7 +37,7 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - Ulan Bekishov
+    - UlanBekishov
 spec:
   type: service
   owner: TeamA
