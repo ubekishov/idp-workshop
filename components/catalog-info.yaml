@@ -37,7 +37,7 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - UlanBekishov
+    - ubekishov
 spec:
   type: service
   owner: TeamA
